@@ -78,6 +78,10 @@ A: Make sure you're looking in Gameplay settings in the Main Menu, not after loa
 **Q: Game crashes on startup**
 A: Verify BepInEx is installed correctly. Try deleting `BepInEx/cache` folder.
 
+## Source Code
+
+https://github.com/JohnDoeGalt/ManaShieldConfigurationMod
+
 ## Credits
 
 - **Mod Author:** [JohnDoeGalt117](https://www.nexusmods.com/users/JohnDoeGalt117) (Nexus Mods)

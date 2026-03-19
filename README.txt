@@ -92,7 +92,7 @@ A: Verify BepInEx is installed correctly. Try deleting BepInEx/cache folder.
 
 SOURCE CODE
 -----------
-https://github.com/JohnDoeGalt/ManaShieldMod
+https://github.com/JohnDoeGalt/ManaShieldConfigurationMod
 
 
 CREDITS
