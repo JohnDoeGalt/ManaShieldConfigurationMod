@@ -1,4 +1,4 @@
-# Mana Shield Mod v1.2.0
+# Mana Shield Configuration Mod v1.2.0
 ### for Tainted Grail: The Fall of Avalon
 
 ## Description
@@ -15,7 +15,7 @@ This mod lets you configure or disable both penalties via an in-game settings me
 
 - Configurable combat mana regen penalty (0% to 100%)
 - Toggle for post-hit regen delay (on/off)
-- Settings accessible in: **Game Options > Gameplay > Mana Shield Mod Settings**
+- Settings accessible in: **Game Options > Gameplay > Mana Shield Configuration Mod Settings**
 - Works in multiplayer (settings sync between players)
 
 ## Requirements
@@ -51,11 +51,11 @@ Or disable/remove via your mod manager.
 ## Configuration
 
 All settings are available in-game:
-**Main Menu > Options > Gameplay > Mana Shield Mod Settings**
+**Main Menu > Options > Gameplay > Mana Shield Configuration Mod Settings**
 
 | Setting | Description |
 |---------|-------------|
-| Enable Mana Shield Mod | Master toggle for the mod |
+| Enable Mana Shield Configuration Mod | Master toggle for the mod |
 | Combat Regen Penalty | 0% (no penalty) to 100% (vanilla 1.20 behavior) |
 | Post-Hit Regen Delay | OFF (no delay) or ON (vanilla 1.20 behavior) |
 
